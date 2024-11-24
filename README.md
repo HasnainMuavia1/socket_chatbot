@@ -22,7 +22,8 @@ This is a simple **Socket.IO-based chat application** created using **Flask** as
 
 Ensure the following software is installed on your machine:
 - Python 3.8 or later
-- Node.js (for **Socket.IO**)
+- Flask
+- Groq API
 - Pipenv (optional, for environment management)
 
 ### Steps
