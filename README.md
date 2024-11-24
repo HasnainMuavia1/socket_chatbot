@@ -31,7 +31,7 @@ Ensure the following software is installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/modern-chat-interface.git](https://github.com/HasnainMuavia1/socket_chatbot)
+   git clone https://github.com/HasnainMuavia1/socket_chatbot
    ```
 2. Install repositries
    ```bash
